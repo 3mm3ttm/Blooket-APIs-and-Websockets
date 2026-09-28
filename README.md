@@ -18,5 +18,7 @@ async function getData() {
 }
 ```
 check GET, POST, PUT, PATCH, DELETE files included in the HTTP folder
+
 check WEBSOCKETS folder for README description.
+
 check Bookmarklets folder for the “Blooket Hacks” Bookmarklets
