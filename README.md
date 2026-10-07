@@ -1,6 +1,9 @@
 # Blooket APIs and Websockets
 Contains Blooket APIs for manipulation of the quiz if you are not the host. Also includes bookmarklet for “Blooket Hacks” (keep in mind that this is not actual hacking)
 
+> [!WARNING]
+> PLEASE NOTE THAT USING “BLOOKET HACKS” CAN GET YOUR ACCOUNT BANNED.
+
 One way you can use a GET request in JavaScript is through the `Fetch( );` script. the following source code block contains a function for GET requests.
 
 ```JAVASCRIPT
